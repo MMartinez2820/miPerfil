@@ -1,2 +1,2 @@
 # miPerfil
-pagina de netlify: https://app.netlify.com/sites/beautiful-arithmetic-b50bfb/overview
+pagina de netlify: https://miperfil5.netlify.app/
